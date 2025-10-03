@@ -4,5 +4,6 @@ package br.com.thalesnishida.datastructure
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
 //    InsertionSort().runExample()
-    BubbleSort().runExample()
+//    BubbleSort().runExample()
+    MergeSort().runExample()
 }
